@@ -18,4 +18,4 @@ This is tutorial on how to read from a JSON file for my Software Engineering cla
 
 
 ## Tutorial
-Head over to Wiki to see the tutorial
+Head over to [Wiki](https://github.com/maheshgaya/ReadFromJson/wiki) to see the tutorial
