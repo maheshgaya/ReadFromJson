@@ -1,4 +1,5 @@
 # Read From Json 
+Software Engineering - Drake University - Scope: Project 2
 ### Android Tutorial
 This is tutorial on how to read from a JSON file for my Software Engineering class - Drake University.
 
@@ -19,3 +20,15 @@ This is tutorial on how to read from a JSON file for my Software Engineering cla
 
 ## Tutorial
 Head over to [Wiki](https://github.com/maheshgaya/ReadFromJson/wiki) to see the tutorial
+
+## My Group
+**Programmers**
+- Dalilah Earley
+- Kristina Neel
+- Mahesh Gaya
+
+**Graphic Design**
+- Abdul Fatah Abdul Aziz
+
+**Documentation Writer**
+- Jacob Jensen
