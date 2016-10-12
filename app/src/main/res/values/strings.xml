@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cities in Iowa</string>
+    <string name="empty_city">No cities available!</string>
+    <string name="longitude">Longitude: </string>
+    <string name="latitude">Latitude: </string>
+</resources>
