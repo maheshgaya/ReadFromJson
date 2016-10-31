@@ -8,6 +8,7 @@ This is tutorial on how to read from a JSON file for my Software Engineering cla
 
   ```
   $ git clone https://github.com/maheshgaya/ReadFromJson.git
+  $ cd ReadFromJson/
   ```
 2. Open Android Studio and import this project
   
